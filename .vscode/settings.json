@@ -4,14 +4,7 @@
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
   },
-  "prettier.semi": true,
   "editor.formatOnSave": true,
   "javascript.format.semicolons": "insert",
-  "typescript.format.semicolons": "insert",
-  "prettier.trailingComma": "all",
-  "prettier.jsxSingleQuote": false,
-  "prettier.bracketSameLine": true,
-  "prettier.bracketSpacing": true,
-  "prettier.htmlWhitespaceSensitivity": "ignore",
-  "prettier.printWidth": 100
+  "typescript.format.semicolons": "insert"
 }
